@@ -4,7 +4,7 @@ import java.util.Random;
  * exhibits erratic and unpredictable movements, while when sober, it moves in a more controlled and steady manner.
  * 
  * @author Avin IRANNEZHAD
- * alwdjidfuisfhiafjilj
+ * alwdjidfuisfhiaf
  * @version 31/10/2023
  */
 
